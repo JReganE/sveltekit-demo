@@ -14,10 +14,10 @@
 			"$src": ["./src/"],
 			"$components/*": ["./src/components/*"],
 			"$src/*": ["./src/*"],
-			"$tests": ["tests"],
-			"$tests/*": ["tests/*"],
-			"$stores/*": ["src/stores/*"],
-			"$actions/*": ["src/actions/*"]
+			"$tests": ["./tests"],
+			"$tests/*": ["./tests/*"],
+			"$stores/*": ["./src/stores/*"],
+			"$actions/*": ["./src/actions/*"]
 		}
 	}
 	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias
